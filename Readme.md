@@ -11,7 +11,7 @@ To play the game, simply run the python script `tictactoe.Ipynb`. The game board
 
 ## Installation
 
-No installation is required. Ensure you have Python 3 installed on your machine. Simply download the `tictactoe.py` file and run it.
+No installation is required. Ensure you have Python 3 installed on your machine. Simply download the `tictactoe.Ipynb` file and run it.
 
 ## Usage
 
