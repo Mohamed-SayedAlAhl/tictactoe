@@ -7,7 +7,7 @@ This is a simple command line implementation of the classic game Tic Tac Toe wri
 
 ## Getting Started
 
-To play the game, simply run the python script `tictactoe.py`. The game board and prompts will be printed to the command line for each player to enter moves.
+To play the game, simply run the python script `tictactoe.Ipynb`. The game board and prompts will be printed to the command line for each player to enter moves.
 
 ## Installation
 
