@@ -1,5 +1,5 @@
 
-# Tic Tac Toe
+# 10K intiative
 
 ## Overview
 
